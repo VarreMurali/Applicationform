@@ -1,0 +1,98 @@
+body{
+  background-image: url("https://t3.ftcdn.net/jpg/08/30/04/64/240_F_830046432_F5nqQmC2gixHEV8oFx15xfAhNgAwAhsQ.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  background-size: cover;
+}
+
+#main{
+
+border-radius: 10px;
+  height: 500px;
+  width: 700px;
+  padding: 50px;
+  margin: auto;
+   margin-top: 100px;
+}
+#label{
+  font-size: 20px;
+  font-weight: bold;
+font-style: oblique;
+
+}
+
+
+  h1{
+    margin-bottom: 50px;
+    color:teal;
+    text-align: center;
+    font-size: 30px;
+   
+   
+  }
+  
+  #name{
+    border:1px black solid;
+    border-radius: 5px;
+    font: 10px;
+    font-weight: bold;
+  
+ 
+   
+ 
+  }
+  #email{
+    border:1px black solid;
+    border-radius: 5px;
+    font: 10px;
+  
+    font-weight: bold;
+    
+   
+ 
+  } 
+   #number{
+    border:1px black solid;
+    border-radius: 5px;
+    font: 10px;
+    
+    font-weight: bold;
+   
+       
+  }
+
+
+  #address{
+    border:1px black solid;
+    border-radius: 5px;
+    font: 10px;
+    
+    font-weight: bold;
+  }
+  #zipcode{
+    border:1px black solid;
+    border-radius: 5px;
+ 
+    font: 10px;
+    font-weight: bold;
+  }
+  #btn{
+    border:1px black solid;
+    border-radius: 5px;
+    font-size: 15px;
+
+    
+  }
+  #clr{
+    border:1px balck solid;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+   #sub{
+    border:1px balck solid;
+    border-radius: 5px;
+    
+    
+  }
